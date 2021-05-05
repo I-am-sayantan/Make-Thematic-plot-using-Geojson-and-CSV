@@ -10,4 +10,9 @@
 ## C. TOP 10 host ids but number of listing. 
 ![lkjbvadkja](https://user-images.githubusercontent.com/50532530/117195352-cf899500-ae02-11eb-8aca-bae24a9131d0.PNG)
 
-## Insight of My work.
+## D. Insight of My work.
+
+- Frist we have mapped the listing to neihbourhood data.
+- Then we have worked on the plots of the top areas.
+- Then we have woeked with lognitude and lattitude, from there we can understand the thematic map from that.
+- Atlast we have analyzed the data and made the top  hosting areas list and also top neighborhoods.(TOP 10)
