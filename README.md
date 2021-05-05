@@ -1,5 +1,7 @@
 # unMazer.ai-Internship-Assignment
 
+###Problem Statement: 
+
 ## A. TOP areas on thematic map 
 ![top_areas](https://user-images.githubusercontent.com/50532530/117194989-5ee27880-ae02-11eb-85e0-b0d4dd3ac705.png)
 
