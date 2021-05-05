@@ -1,6 +1,10 @@
 # unMazer.ai-Internship-Assignment
 
-###Problem Statement: 
+### Problem Statement: Using the data files (listing, neighborhood.json), answers these questions 
+- a. Top areas with the highest number of listing (you have to map the listing pointers with their neighbourhood polygons) 
+- b. Thematic map of the neighbourhood (broken down by single room, entire home). Save the images in the GitHub folder. 
+- c. Who are the top 10 hosts by their total number of listings? 
+- d. One metric or insight of your choice.  
 
 ## A. TOP areas on thematic map 
 ![top_areas](https://user-images.githubusercontent.com/50532530/117194989-5ee27880-ae02-11eb-85e0-b0d4dd3ac705.png)
