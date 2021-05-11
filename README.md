@@ -1,4 +1,4 @@
-# Make-Thematic-plot-using-Geojson-and-CSV
+# Make Thematic plot using Geojson and CSV
 
 ### Problem Statement: Using the data files (listing, neighborhood.json), answers these questions 
 - a. Top areas with the highest number of listing (you have to map the listing pointers with their neighbourhood polygons) 
