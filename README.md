@@ -1,3 +1,9 @@
+![TEAM_HAT_STATIC_1](https://user-images.githubusercontent.com/50532530/126909204-9f0f711d-9951-4359-89bd-ef050cf1b7a4.gif)
+
+![Untitled_design](https://user-images.githubusercontent.com/50532530/126908799-2c944695-e62a-47bb-9a60-f43fe866dafa.gif)
+
+
+
 ![TEAM HAT STATIC](https://user-images.githubusercontent.com/50532530/126899075-03f40841-7ca3-4fa3-8abe-49af1c7c6ed2.gif)
 
 
