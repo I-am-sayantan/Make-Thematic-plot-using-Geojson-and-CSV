@@ -1,3 +1,5 @@
+![TEAM HAT STATIC](https://user-images.githubusercontent.com/50532530/126899075-03f40841-7ca3-4fa3-8abe-49af1c7c6ed2.gif)
+
 
 <p align="center">
   <img width="1447" height: "2107" alt="Group_29_2" src="https://user-images.githubusercontent.com/50532530/126879541-fcba09fe-1ca2-4c4e-b3c5-21b9f2240e80.png">
